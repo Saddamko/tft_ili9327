@@ -1,4 +1,7 @@
 //   ic:ili9327  
+
+// It is worked (tested on UNO), but very slow mode
+//fill screen with squares
 #define LCD_RD   A0
 #define LCD_WR   A1     
 #define LCD_RS   A2        
